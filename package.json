@@ -1,0 +1,11 @@
+{
+  "name": "bot-luan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LuanColeto/bot-luan.git",
+  "author": "Luan Mota Coleto <luancoleto@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "sulla": "^2.4.0"
+  }
+}
